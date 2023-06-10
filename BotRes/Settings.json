@@ -1,0 +1,21 @@
+{
+    "Settings": {
+        "PassPhrase": "f6kihgrq2ml",
+        "APIKey": "fsdffwsrwrwererw",
+        "APISecret": "werwerwerwerwerw",
+        "TradingPair": "BTC-USD",
+        "EntryPrice": 27000,
+        "BaseOrderSize": 10,
+        "SafetyOrderSize": 10,
+        "TakeProfitPercentage": 0.03,
+        "MaxSafetyOrders": 3,
+        "TrailingDeviation": 1,
+        "SafetyOrderSizeScale": 1.5,
+        "SafetyOrderStepScale": 1.5,
+        "ActivationPercentage": 3.0,
+        "InitialStopLossPercentage": 1.0,
+        "TPIncrementFactor": 0.5,
+        "BotToken": "dasd1:4asdasdasslMJNE2wxAsI3M4b6456",
+        "ChatID": "3453242342"
+    }
+}
